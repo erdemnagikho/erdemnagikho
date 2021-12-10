@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Vue.Js,Flutter,Svelte
-- 👯 I’m looking to collaborate on Laravel, .NetCore
+- 👯 I’m looking to collaborate on Laravel, Symfony
 - 🤔 I’m looking for help with Elasticsearch
 - 💬 Ask me about Laravel
 - 📫 How to reach me: erdemnayir@gmail.com
